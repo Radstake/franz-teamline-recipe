@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Erich Radstake <contact@erichradstake.nl>",
   "license": "MIT",
+  "repository": "https://github.com/Radstake/franz-teamline-recipe",
   "config": {
     "serviceURL": "https://my.teamline.app/",
     "hasNotificationSound": true
