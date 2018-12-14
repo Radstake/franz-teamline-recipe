@@ -1,0 +1,13 @@
+{
+  "id": "teamline",
+  "name": "Teamline",
+  "version": "1.0.0",
+  "description": "Teamline",
+  "main": "index.js",
+  "author": "Erich Radstake <contact@erichradstake.nl>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://my.teamline.app/",
+    "hasNotificationSound": true
+  }
+}
